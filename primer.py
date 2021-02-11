@@ -5,5 +5,5 @@ letra = input("dame una letra:")
 
 print("lo que escribiste fue: ", letra)
 
-numero = float(input " dame un número "))
+numero = float (input) "dame un número"))
 print("Dame un número", numero )
